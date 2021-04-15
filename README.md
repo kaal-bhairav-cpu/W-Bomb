@@ -8,7 +8,7 @@ apt upgrade
 
 apt install python
 
-git clone https://github.com/kaal-bhairav-cpu/W-Bomb
+git clone https://github.com/kaal-bhairav-cpu/W-Bomb.git
 
 ls
 
